@@ -2,7 +2,7 @@
 public class Test {
 
 	public static void main(String[] args) {
-		String t1 = "ÎÒÏë¶Ô%sËµ";
+		String t1 = "æˆ‘æƒ³å¯¹%sè¯´";
 		String name = "Shery";
 		System.out.println(String.format(t1, name));
 	}
